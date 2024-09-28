@@ -26,8 +26,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sudhanshu1014&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**Sudhanshu1014/Sudhanshu1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Badge:
+[![Unique Badge](https://img.shields.io/badge/cm1mahpn603470cmjc3bh9xec-green.svg)](https://unique-badge.com)
 
 Here are some ideas to get you started:
 
