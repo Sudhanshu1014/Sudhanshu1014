@@ -29,6 +29,8 @@
 ### Badge:
 [![Unique Badge](https://img.shields.io/badge/cm1mahpn603470cmjc3bh9xec-green.svg)](https://unique-badge.com)
 
+[![An image of @sudhanshutiwary69868's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudhanshutiwary69868)](https://holopin.io/@sudhanshutiwary69868)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
